@@ -1,1 +1,1 @@
-nriver/trilium-translation
+python:alpine3.19
