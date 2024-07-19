@@ -1,2 +1,2 @@
 nriver/trilium-cn
-vaultwarden/server
+vaultwarden/vaultwarden
