@@ -2,5 +2,5 @@ nriver/trilium-cn
 vaultwarden/server
 requarks/wiki
 dataease/dataease
-1panel-dev/1panel
+1Panel-dev/1Panel
 jumpserver/jumpserver
