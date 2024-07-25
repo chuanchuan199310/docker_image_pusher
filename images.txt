@@ -1,2 +1,3 @@
 nriver/trilium-cn
 vaultwarden/server
+requarks/wiki
