@@ -2,4 +2,3 @@ nriver/trilium-cn
 vaultwarden/server
 requarks/wiki
 1Panel-dev/1Panel
-jumpserver/jumpserver
