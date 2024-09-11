@@ -9,3 +9,4 @@ danielgatis/rembg
 # 数据一键处理
 jupyterhub/jupyterhub
 jupyter/datascience-notebook
+dclong/jupyterlab
