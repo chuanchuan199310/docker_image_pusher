@@ -3,3 +3,4 @@ vaultwarden/server
 requarks/wiki
 danielgatis/rembg
 jupyterhub/jupyterhub
+jupyter/datascience-notebook
