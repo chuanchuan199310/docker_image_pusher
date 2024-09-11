@@ -2,3 +2,5 @@ nriver/trilium-cn
 vaultwarden/server
 requarks/wiki
 danielgatis/rembg
+jupyterlab/jupyterlab
+jupyterhub/jupyterhub
