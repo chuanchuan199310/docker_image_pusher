@@ -3,4 +3,3 @@ vaultwarden/server
 requarks/wiki
 danielgatis/rembg
 jupyterlab/jupyterlab
-jupyterhub/jupyterhub
