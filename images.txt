@@ -1,6 +1,11 @@
+# 个人笔记
 nriver/trilium-cn
+# 密码管理器
 vaultwarden/server
+# 企业知识库
 requarks/wiki
+# 图片处理
 danielgatis/rembg
+
 jupyterhub/jupyterhub
 jupyter/datascience-notebook
