@@ -1,3 +1,5 @@
+# 资源监控
+nicolargo/glances
 # 个人笔记
 nriver/trilium-cn
 # 密码管理器
