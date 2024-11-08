@@ -1,3 +1,5 @@
+#QB下载
+lscr.io/linuxserver/qbittorrent
 # 资源监控
 nicolargo/glances
 # 个人笔记
