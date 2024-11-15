@@ -1,26 +1,33 @@
-# 个人工具
-nriver/trilium-cn      # 个人笔记
-lscr.io/linuxserver/qbittorrent      # QB下载
-vaultwarden/server      # 密码管理器
-whyour/qinglong      # 青龙面板
-danielgatis/rembg      # 图片处理
-qdtoday/qd      # docker签到
-jlesage/freefilesync    # 同步工具
+# 个人笔记
+nriver/trilium-cn
+# QB下载
+lscr.io/linuxserver/qbittorrent
+# 密码管理器
+vaultwarden/server
+# 青龙面板
+whyour/qinglong
+# 图片处理
+danielgatis/rembg
+# docker签到
+qdtoday/qd
+# 同步工具
+jlesage/freefilesync
+
+# nas导航
+ghcr.io/gethomepage/homepage
+ghcr.io/ajnart/homarr
 
 # 资源监控
 nicolargo/glances
-prom/prometheus      # 数据汇总工具
-grafana/grafana      # 数据展示，可以配合Prometheus监控资源
+prom/prometheus
+grafana/grafana
 
 # 数据一键处理
 jupyterhub/jupyterhub
 jupyter/datascience-notebook
 dclong/jupyterlab
-requarks/wiki      # 企业知识库
-
-# nas导航
-ghcr.io/gethomepage/homepage
-ghcr.io/ajnart/homarr
+# 企业知识库
+requarks/wiki
 
 # 异地组网
 zerotier/zerotier
