@@ -20,5 +20,6 @@ whyour/qinglong
 qdtoday/qd
 # nas导航
 ghcr.io/gethomepage/homepage
+ajnaet/homarr
 # 异地组网
 zerotier/zerotier
