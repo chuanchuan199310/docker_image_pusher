@@ -1,25 +1,33 @@
-#QB下载
-lscr.io/linuxserver/qbittorrent
+# 个人工具
+nriver/trilium-cn      # 个人笔记
+lscr.io/linuxserver/qbittorrent      # QB下载
+vaultwarden/server      # 密码管理器
+whyour/qinglong      # 青龙面板
+danielgatis/rembg      # 图片处理
+qdtoday/qd      # docker签到
+jlesage/freefilesync    # 同步工具
+
 # 资源监控
 nicolargo/glances
-# 个人笔记
-nriver/trilium-cn
-# 密码管理器
-vaultwarden/server
-# 企业知识库
-requarks/wiki
-# 图片处理
-danielgatis/rembg
+prom/prometheus      # 数据汇总工具
+grafana/grafana      # 数据展示，可以配合Prometheus监控资源
+
 # 数据一键处理
 jupyterhub/jupyterhub
 jupyter/datascience-notebook
 dclong/jupyterlab
-# 青龙面板
-whyour/qinglong
-# docker签到
-qdtoday/qd
+requarks/wiki      # 企业知识库
+
 # nas导航
 ghcr.io/gethomepage/homepage
 ghcr.io/ajnart/homarr
+
 # 异地组网
 zerotier/zerotier
+
+# 家庭设备控制
+homeassistant/home-assistant
+
+# docker容器管理
+0nlylty/dockercopilot
+moelin/1panel
