@@ -34,5 +34,4 @@ zerotier/zerotier
 
 
 # docker容器管理
-0nlylty/dockercopilot
 
