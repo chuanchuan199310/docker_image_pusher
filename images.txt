@@ -18,7 +18,7 @@ ghcr.io/gethomepage/homepage
 ghcr.io/ajnart/homarr
 
 # 资源监控
-
+nicolargo/glances
 
 # 数据一键处理
 jupyterhub/jupyterhub
@@ -31,7 +31,8 @@ requarks/wiki
 zerotier/zerotier
 
 # 家庭设备控制
-
+homeassistant/home-assistant
 
 # docker容器管理
-
+moelin/1panel
+0nlylty/dockercopilot
