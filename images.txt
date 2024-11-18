@@ -37,4 +37,4 @@ homeassistant/home-assistant
 
 # docker容器管理
 moelin/1panel
-onlyLTY/dockerCopilot
+
