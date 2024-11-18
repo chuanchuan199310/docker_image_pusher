@@ -33,7 +33,7 @@ requarks/wiki
 zerotier/zerotier
 
 # 家庭设备控制
-homeassistant/home-assistant
+
 
 # docker容器管理
 moelin/1panel
