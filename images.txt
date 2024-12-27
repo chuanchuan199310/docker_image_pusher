@@ -14,6 +14,8 @@ danielgatis/rembg
 qdtoday/qd
 # 同步工具
 jlesage/freefilesync
+# mqtt
+eclipse-mosquitto
 
 # nas导航
 ghcr.io/gethomepage/homepage
