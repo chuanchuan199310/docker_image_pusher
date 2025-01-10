@@ -14,8 +14,7 @@ danielgatis/rembg
 qdtoday/qd
 # 同步工具
 jlesage/freefilesync
-# mqtt
-eclipse-mosquitto
+
 
 # nas导航
 ghcr.io/gethomepage/homepage
@@ -39,6 +38,9 @@ zerotier/zerotier
 # 家庭设备控制
 homeassistant/home-assistant
 esphome/esphome
+# mqtt
+eclipse-mosquitto
+nodered/node-red
 
 # docker容器管理
 moelin/1panel
