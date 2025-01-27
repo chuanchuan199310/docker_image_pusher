@@ -16,6 +16,9 @@ qdtoday/qd
 jlesage/freefilesync
 # 文档存档和检索
 ghcr.io/paperless-ngx/paperless-ngx
+docker.io/library/redis
+docker.io/gotenberg/gotenberg
+docker.io/apache/tika
 
 # nas导航
 ghcr.io/gethomepage/homepage
