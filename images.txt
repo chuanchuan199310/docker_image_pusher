@@ -19,6 +19,7 @@ ghcr.io/paperless-ngx/paperless-ngx
 docker.io/library/redis
 docker.io/gotenberg/gotenberg
 docker.io/apache/tika
+postgres
 
 # nas导航
 ghcr.io/gethomepage/homepage
